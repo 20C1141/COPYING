@@ -1,4 +1,4 @@
-# report1
+# COPYING
 ロボットシステム学　課題
 
 # 概要
@@ -21,7 +21,7 @@ Raspberry Pi 3 Model B
 
 $ git clone git@github.com:20c1141/COPYING.git
 
-$ cd report1/
+$ cd COPYING/
 
 $ make
 
