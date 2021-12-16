@@ -54,6 +54,8 @@ $ echo 0 > /dev/myled0
 
 $ sudo rmmod myled
 
+$ make clean
+
 # サンプル動画
 https://youtu.be/rFYxb5qziAI
 
