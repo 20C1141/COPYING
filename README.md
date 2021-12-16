@@ -39,6 +39,7 @@ $ sudo chmod 666 /dev/myled0
 LEDを点灯させる
 
 $ echo 1 > /dev/myled0
+
 LEDを消灯させる
 
 $ echo 0 > /dev/myled0
