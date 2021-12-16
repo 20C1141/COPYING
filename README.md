@@ -50,6 +50,10 @@ LEDを消灯させる
 
 $ echo 0 > /dev/myled0
 
+# 後処理
+
+$ sudo rmmod myled
+
 # サンプル動画
 https://youtu.be/rFYxb5qziAI
 
