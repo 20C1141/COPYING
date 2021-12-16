@@ -18,3 +18,4 @@ Raspberry Pi 3 Model B
 
 # インストール
 以下のコマンドをターミナルで実行する。
+GIT
