@@ -15,7 +15,9 @@ Raspberry Pi 3 Model B
 以下のように接続する。
 ![image](https://user-images.githubusercontent.com/67887230/146323253-d0888f15-a497-4c7d-9b49-b461fd9e7498.png)
 ラズパイのGPIO25と抵抗、LEDとラズパイのGroundを接続する。
+
 回路図は以下のようになる。
+![スクリーンショット 2021-12-16 190848](https://user-images.githubusercontent.com/67887230/146351771-d644fe15-d6be-4559-a69b-0cdc157f06d8.png)
 
 
 
