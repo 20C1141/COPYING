@@ -17,6 +17,7 @@ Raspberry Pi 3 Model B
 ラズパイのGPIO25と抵抗、LEDとラズパイのGroundを接続する。
 
 回路図は以下のようになる。
+
 ![スクリーンショット 2021-12-16 190848](https://user-images.githubusercontent.com/67887230/146351771-d644fe15-d6be-4559-a69b-0cdc157f06d8.png)
 
 
@@ -36,8 +37,10 @@ $ sudo chmod 666 /dev/myled0
 
 # 実行方法
 LEDを点灯させる
+
 $ echo 1 > /dev/myled0
 LEDを消灯させる
+
 $ echo 0 > /dev/myled0
 
 # サンプル動画
