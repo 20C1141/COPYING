@@ -19,7 +19,7 @@ Raspberry Pi 3 Model B
 # インストール
 以下のコマンドをターミナルで実行する。
 
-$ git clone git@github.com:20c1141/report1.git
+$ git clone git@github.com:20c1141/COPYING.git
 
 $ cd report1/
 
