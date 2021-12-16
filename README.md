@@ -75,7 +75,10 @@ https://youtu.be/rFYxb5qziAI
 
 # ライセンス
 GNU General Public Licensev2.0
+
 以下のURLから閲覧可能。
+
 https://github.com/SakaTaku2/robosys_report1/blob/3394557b1d9618ffd1dcc6306e8000a87f2b1b60/LICENSE
 
-
+# 著者
+Soya Watabe +　Takumi Sakamoto　+　Ryuichi Ueda
