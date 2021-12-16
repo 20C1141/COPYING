@@ -18,6 +18,7 @@ Raspberry Pi 3 Model B
 
 # インストール
 以下のコマンドをターミナルで実行する。
+
 $ git clone git@github.com:20c1141/report1.git
 
 $ cd report1/
@@ -38,7 +39,7 @@ $ echo 0 > /dev/myled0
 https://youtu.be/rFYxb5qziAI
 
 # ライセンス
-GNU General Public Lイセンセv2.0
+GNU General Public Licensev2.0
 以下のURLから閲覧可能。
 https://github.com/SakaTaku2/robosys_report1/blob/3394557b1d9618ffd1dcc6306e8000a87f2b1b60/LICENSE
 
