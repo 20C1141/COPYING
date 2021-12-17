@@ -1,8 +1,12 @@
-# COPYING
+# report1
 ロボットシステム学　課題
 
+# デモ動画
+
+https://youtu.be/rFYxb5qziAI
+
 # 概要
-ロボットシステム学第7，8回の講義動画を見てデバイスドライバを作成し、同講義第9回のビデオを見て著作権やライセンスに配慮する。
+ロボットシステム学第7，8回の講義動画を見てLEDを光らせるデバイスドライバを作成し、同講義第9回のビデオを見て著作権やライセンスに配慮する。
 
 適当なディレクトリにmyled.cを作る。
 
@@ -69,16 +73,17 @@ $ sudo rmmod myled
 
 $ make clean
 
-# サンプル動画
-https://youtu.be/rFYxb5qziAI
-
-
 # ライセンス
 GNU General Public Licensev2.0
 
 以下のURLから閲覧可能。
 
-https://github.com/SakaTaku2/robosys_report1/blob/3394557b1d9618ffd1dcc6306e8000a87f2b1b60/LICENSE
+
 
 # 著者
 Soya Watabe +　Takumi Sakamoto　+　Ryuichi Ueda
+
+# 参考文献
+Takumi Sakamoto
+
+https://github.com/SakaTaku2/robosys_report1
