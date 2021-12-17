@@ -48,7 +48,6 @@ Raspberry Pi 3 Model B
 # インストール
 以下のコマンドをターミナルで実行する
 
-..bash
 $ git clone https://github.com/20C1141/report1.git
 
 $ cd report1/
@@ -58,7 +57,7 @@ $ make
 $ sudo insmod myled.ko
 
 $ sudo chmod 666 /dev/myled0
-..
+
 # 実行方法
 LEDを点灯させる
 
@@ -91,4 +90,4 @@ https://github.com/SakaTaku2/robosys_report1
 
 参照：準備するもの、インストール、実行方法
 
-新しく加えた内容：動作環境、後処理、回路図
+新しく加えた内容：動作環境、後処理、回路図、概要
