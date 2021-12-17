@@ -1,12 +1,12 @@
 # report1
 ロボットシステム学　課題
 
-# デモ動画
+# 実演動画
 
 https://youtu.be/rFYxb5qziAI
 
 # 概要
-ロボットシステム学第7，8回の講義動画を見てLEDを光らせるデバイスドライバを作成し、同講義第9回のビデオを見て著作権やライセンスに配慮する。
+ロボットシステム学第7，8回の講義動画を見てLEDを光らせるデバイスドライバを作成する。
 
 適当なディレクトリにmyled.cを作る。
 
@@ -46,18 +46,19 @@ Raspberry Pi 3 Model B
 
 
 # インストール
-以下のコマンドをターミナルで実行する。
+以下のコマンドをターミナルで実行する
 
-$ git clone https://github.com/20C1141/COPYING.git
+..bash
+$ git clone https://github.com/20C1141/report1.git
 
-$ cd COPYING/
+$ cd report1/
 
 $ make
 
 $ sudo insmod myled.ko
 
 $ sudo chmod 666 /dev/myled0
-
+..
 # 実行方法
 LEDを点灯させる
 
@@ -78,7 +79,7 @@ GNU General Public Licensev2.0
 
 以下のURLから閲覧可能。
 
-
+https://github.com/20C1141/report1/commit/c24eb168d81e3b0aa3f73b45d03cdba557d3f91f
 
 # 著者
 Soya Watabe +　Takumi Sakamoto　+　Ryuichi Ueda
@@ -87,3 +88,7 @@ Soya Watabe +　Takumi Sakamoto　+　Ryuichi Ueda
 Takumi Sakamoto
 
 https://github.com/SakaTaku2/robosys_report1
+
+参照：準備するもの、インストール、実行方法
+
+新しく加えた内容：動作環境、後処理、回路図
