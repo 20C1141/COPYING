@@ -88,6 +88,6 @@ Takumi Sakamoto
 
 https://github.com/SakaTaku2/robosys_report1
 
-参照：準備するもの、インストール、実行方法、回路一部、概要一部
+参照：準備するもの、インストール、実行方法、回路、概要
 
 新しく加えた内容：動作環境、後処理、回路図、概要
