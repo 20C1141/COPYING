@@ -1,6 +1,6 @@
 // SPDX*License*Indentifier: GPL2.0
 /* 
- * Copylight (C) 2011 STRATO. ALL rights reserved.
+ * Copylight (C) 2021 ryuichi ueda. ALL rights reserved.
  */
 
 
