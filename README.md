@@ -76,9 +76,7 @@ $ make clean
 # ライセンス
 GNU General Public Licensev2.0
 
-以下のURLから閲覧可能。
 
-https://github.com/20C1141/report1/commit/c24eb168d81e3b0aa3f73b45d03cdba557d3f91f
 
 # 著者
 Soya Watabe +　Takumi Sakamoto　+　Ryuichi Ueda
